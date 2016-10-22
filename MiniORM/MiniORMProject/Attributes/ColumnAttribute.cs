@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MiniORMProject.Attributes
+{
+    [AttributeUsage(AttributeTargets.Field)]
+    public class ColumnAttribute : Attribute
+    {
+        public string Name { get; set; }
+    }
+}
