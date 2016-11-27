@@ -1,0 +1,46 @@
+[
+  {
+    "category": "Drugs",
+    "productsCount": 23
+  },
+  {
+    "category": "Business",
+    "productsCount": 23
+  },
+  {
+    "category": "For Children",
+    "productsCount": 22
+  },
+  {
+    "category": "Sports",
+    "productsCount": 22
+  },
+  {
+    "category": "Fashion",
+    "productsCount": 19
+  },
+  {
+    "category": "Electronics",
+    "productsCount": 19
+  },
+  {
+    "category": "Weapons",
+    "productsCount": 19
+  },
+  {
+    "category": "Garden",
+    "productsCount": 18
+  },
+  {
+    "category": "Adult",
+    "productsCount": 18
+  },
+  {
+    "category": "Autoparts",
+    "productsCount": 17
+  },
+  {
+    "category": "Other",
+    "productsCount": 0
+  }
+]
